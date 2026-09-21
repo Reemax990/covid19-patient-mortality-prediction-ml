@@ -50,6 +50,4 @@ Logistic Regression performed slightly better in terms of accuracy.
 ## Citation
 Nizri, M. (2022). *COVID-19 Dataset* [Data set]. Kaggle. https://www.kaggle.com/datasets/meirnizri/covid19-dataset
 
-## License
-Code released under the MIT License (or update as required by your course).
 
